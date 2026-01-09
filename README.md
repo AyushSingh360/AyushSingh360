@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I’m currently working on AI projects<br> I’m looking to collaborate on Full stack Projects<br> I’m looking for help with Java and React<br> I’m currently learning Java <br> Ask me about JS, Python, Ml & AI<br> I love learning new technologies to enhance my skills and knowledge</p>
+<h4 align="center">I’m currently working on AI projects<br> I’m looking to collaborate on Full stack Projects<br> I’m looking for help with Java and React<br> I’m currently learning Java <br> Ask me about JS, Python, Ml & AI<br> I love learning new technologies to enhance my skills and knowledge</h4>
 
 ###
 
@@ -98,11 +98,11 @@
 
 ###
 
-<h3 align="center">Hobbies :</h3>
+<h2 align="center">Hobbies :</h2>
 
 ###
 
-<h5 align="center">🎨 Drawing  • 🧩 Solving Puzzles 🎮 Gaming • 🍳 Cooking • 🌎 Learning Languages</h5>
+<h4 align="center">🎨 Drawing  • 🧩 Solving Puzzles 🎮 Gaming • 🍳 Cooking • 🌎 Learning Languages</h4>
 
 ###
 
