@@ -137,13 +137,15 @@
 <h2 align="center">📝 Recent Medium Articles</h2>
 <div align="center">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/0">
-    <img width="30%" src="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/0" alt="Medium post 1"  />
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/0" alt="Medium post 1"  />
   </a>
+  <br><br>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/1">
-    <img width="30%" src="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/1" alt="Medium post 2"  />
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/1" alt="Medium post 2"  />
   </a>
+  <br><br>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/2">
-    <img width="30%" src="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/2" alt="Medium post 3"  />
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/2" alt="Medium post 3"  />
   </a>
 </div>
 
