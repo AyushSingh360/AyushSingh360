@@ -151,6 +151,17 @@
 
 <br>
 
+<!-- Interactive Section -->
+<div align="center">
+  <details>
+    <summary><h2>🤣 Need a laugh? Click me!</h2></summary>
+    <br>
+    <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+  </details>
+</div>
+
+<br>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
