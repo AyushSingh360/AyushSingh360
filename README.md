@@ -154,9 +154,9 @@
 <!-- Interactive Section -->
 <div align="center">
   <details>
-    <summary><h2>🤣 Need a laugh? Click me!</h2></summary>
+    <summary><h3>✨ <i>Tap for Daily Inspiration</i> ✨</h3></summary>
     <br>
-    <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote of the Day" />
   </details>
 </div>
 
