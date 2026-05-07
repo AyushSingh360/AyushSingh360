@@ -34,14 +34,14 @@
 <br>
 
 <!-- About me -->
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 <h3 align="center">
-  🔭 I’m currently working on <b>AI projects</b><br><br>
-  👯 I’m looking to collaborate on <b>Full stack Projects</b><br><br>
-  🤝 I’m looking for help with <b>Java and React</b><br><br>
-  🌱 I’m currently learning <b>Java</b><br><br>
-  💬 Ask me about <b>JS, Python, ML & AI</b><br><br>
-  ⚡ Fun fact: <b>I love drawing, cooking, and solving puzzles!</b>
+   I’m currently working on <b>AI projects</b><br><br>
+   I’m looking to collaborate on <b>Full stack Projects</b><br><br>
+   I’m looking for help with <b>Java and React</b><br><br>
+   I’m currently learning <b>Java</b><br><br>
+   Ask me about <b>JS, Python, ML & AI</b><br><br>
+   Fun fact: <b>I love drawing, cooking, and solving puzzles!</b>
 </h3>
 
 <br>
@@ -98,7 +98,7 @@
 <br>
 
 <!-- Github Activity and Snake -->
-<h2 align="center">📈 GitHub Activity</h2>
+<h2 align="center"> GitHub Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSingh360&radius=16&theme=dracula&area=true" alt="activity-graph graph" />
@@ -134,7 +134,7 @@
 <br>
 
 <!-- Articles -->
-<h2 align="center">📝 Recent Medium Articles</h2>
+<h2 align="center"> Recent Medium Articles</h2>
 <div align="center">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/0">
     <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@AyushSingh360/0" alt="Medium post 1"  />
