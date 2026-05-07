@@ -8,7 +8,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushSingh360&label=Profile%20Views&color=27F7D5&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AyushSingh360&label=Profile%20Views&color=000000&style=flat" alt="Profile Views" />
 </div>
 <br>
 
