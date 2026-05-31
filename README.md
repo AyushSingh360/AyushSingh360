@@ -280,13 +280,6 @@
 
 <br><br>
 
-<!-- Terminal Animation -->
-<div align="center">
-<img src="assets/terminal-anim.svg" width="100%" alt="Terminal Animation" style="max-width: 640px;" />
-</div>
-
-<br><br>
-
 <!-- ▸ Section Divider ◂ -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C4A24E,50:0C0C0E,100:C4A24E&height=1&section=header&text=&fontSize=0" width="60%" alt="divider" />
