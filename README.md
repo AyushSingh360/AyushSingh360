@@ -18,7 +18,7 @@
 <br>
 
 <!-- Subtext -->
-<p style="font-family: 'DM Sans', sans-serif; font-size: 14px; letter-spacing: 4px; color: #8A8580; text-transform: uppercase; margin-top: 4px;">
+<p style="font-size: 13px; letter-spacing: 3px; color: #6A6560;">
   based in India · building with intent
 </p>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<h3 style="font-family: 'Playfair Display', serif; font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
+<h3 style="font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
   ◈ About ◈
 </h3>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<h3 style="font-family: 'Playfair Display', serif; font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
+<h3 style="font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
   ◈ Toolbox ◈
 </h3>
 
@@ -179,7 +179,7 @@
 
 <div align="center">
 
-<h3 style="font-family: 'Playfair Display', serif; font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
+<h3 style="font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
   ◈ GitHub Pulse ◈
 </h3>
 
@@ -236,7 +236,7 @@
 
 <div align="center">
 
-<h3 style="font-family: 'Playfair Display', serif; font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
+<h3 style="font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
   ◈ Coding Pulse
 </h3>
 
@@ -255,7 +255,7 @@
 
 <div align="center">
 
-<h3 style="font-family: 'Playfair Display', serif; font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
+<h3 style="font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
   ◈ Recent Writing ◈
 </h3>
 
@@ -286,7 +286,7 @@
 
 <div align="center">
 
-<h3 style="font-family: 'Playfair Display', serif; font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
+<h3 style="font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
   ◈ Commit Serpent ◈
 </h3>
 
