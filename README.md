@@ -60,27 +60,27 @@
 <!-- About Cards -->
 <table style="max-width: 880px; width: 100%;">
   <tr>
-    <td style="padding: 14px 24px; border-left: 2px solid #C4A24E; background: #111116; border-radius: 0 6px 6px 0; color: #E8E2D5; font-family: 'DM Sans', sans-serif; font-size: 16px; line-height: 1.6; text-align: left;">
+    <td style="padding: 14px 24px; border-left: 2px solid #C4A24E; background: #111116; border-radius: 0 6px 6px 0; color: #E8E2D5; font-size: 16px; line-height: 1.6; text-align: left;">
       <span style="color: #C4A24E; font-size: 18px;">⟫</span>&nbsp; Currently building <b>AI projects</b> — exploring agents, LLMs, and smart automation
     </td>
   </tr>
   <tr>
-    <td style="padding: 14px 24px; border-left: 2px solid #C4A24E; background: #111116; border-radius: 0 6px 6px 0; color: #E8E2D5; font-family: 'DM Sans', sans-serif; font-size: 16px; line-height: 1.6; text-align: left;">
+    <td style="padding: 14px 24px; border-left: 2px solid #C4A24E; background: #111116; border-radius: 0 6px 6px 0; color: #E8E2D5; font-size: 16px; line-height: 1.6; text-align: left;">
       <span style="color: #C4A24E; font-size: 18px;">⟫</span>&nbsp; Open to collaborating on <b>full-stack projects</b> — especially meaningful tools
     </td>
   </tr>
   <tr>
-    <td style="padding: 14px 24px; border-left: 2px solid #C4A24E; background: #111116; border-radius: 0 6px 6px 0; color: #E8E2D5; font-family: 'DM Sans', sans-serif; font-size: 16px; line-height: 1.6; text-align: left;">
+    <td style="padding: 14px 24px; border-left: 2px solid #C4A24E; background: #111116; border-radius: 0 6px 6px 0; color: #E8E2D5; font-size: 16px; line-height: 1.6; text-align: left;">
       <span style="color: #C4A24E; font-size: 18px;">⟫</span>&nbsp; Deep diving into <b>Java · React</b> — sharpening the stack
     </td>
   </tr>
   <tr>
-    <td style="padding: 14px 24px; border-left: 2px solid #C4A24E; background: #111116; border-radius: 0 6px 6px 0; color: #E8E2D5; font-family: 'DM Sans', sans-serif; font-size: 16px; line-height: 1.6; text-align: left;">
+    <td style="padding: 14px 24px; border-left: 2px solid #C4A24E; background: #111116; border-radius: 0 6px 6px 0; color: #E8E2D5; font-size: 16px; line-height: 1.6; text-align: left;">
       <span style="color: #C4A24E; font-size: 18px;">⟫</span>&nbsp; Fluent in <b>JS · Python · ML & AI</b> — building across the stack
     </td>
   </tr>
   <tr>
-    <td style="padding: 14px 24px; border-left: 2px solid #C4A24E; background: #111116; border-radius: 0 6px 6px 0; color: #8A8580; font-family: 'DM Sans', sans-serif; font-size: 15px; line-height: 1.6; text-align: left; font-style: italic;">
+    <td style="padding: 14px 24px; border-left: 2px solid #C4A24E; background: #111116; border-radius: 0 6px 6px 0; color: #8A8580; font-size: 15px; line-height: 1.6; text-align: left; font-style: italic;">
       <span style="color: #C4A24E; font-size: 18px;">⟫</span>&nbsp; Also: drawing · cooking · puzzles &nbsp;—&nbsp; yes, really
     </td>
   </tr>
@@ -221,30 +221,6 @@
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSingh360&radius=12&theme=github-dark&bg_color=0C0C0E&color=C4A24E&line=C4A24E&point=E8E2D5&area=true&area_color=C4A24E15&hide_border=true" width="100%" alt="activity graph" />
 
-<br>
-
-<!-- 3D Contribution Graph -->
-<img src="https://raw.githubusercontent.com/AyushSingh360/AyushSingh360/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
-
-</div>
-
-<br><br>
-
-<!-- ════════════════════════════════════════════════════════
-     CODING STATS (WakaTime)
-     ════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h3 style="font-weight: 400; font-size: 22px; color: #C4A24E; letter-spacing: 2px; margin: 0;">
-  ◈ Coding Pulse
-</h3>
-
-<br>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 </div>
 
 <br><br>
@@ -298,7 +274,7 @@
 
 <!-- Interactive Quote -->
 <details>
-  <summary style="font-family: 'DM Sans', sans-serif; font-size: 13px; letter-spacing: 3px; color: #8A8580; cursor: pointer; text-transform: uppercase;">
+  <summary style="font-size: 13px; letter-spacing: 3px; color: #8A8580; cursor: pointer;">
     ◆  tap for a thought  ◆
   </summary>
   <br>
@@ -328,10 +304,10 @@
      ════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <p style="font-family: 'DM Sans', sans-serif; font-size: 13px; letter-spacing: 6px; color: #C4A24E; text-transform: uppercase;">
+  <p style="font-size: 13px; letter-spacing: 4px; color: #C4A24E;">
     crafted with <span style="color: #C4A24E;">◆</span> by Ayush Singh
   </p>
-  <p style="font-family: 'DM Sans', sans-serif; font-size: 11px; letter-spacing: 3px; color: #C4A24E;">
+  <p style="font-size: 11px; letter-spacing: 3px; color: #C4A24E;">
     <span>⟪</span>&nbsp; full-stack · ai/ml · creative &nbsp;<span>⟫</span>
   </p>
 </div>
