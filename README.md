@@ -110,7 +110,7 @@
 
 <div align="center">
 
-<h2><span style="color:#C4A24E">◈ GitHub Pulse ◈</span></h2>
+<h2><span style="color:#C4A24E">◈ GitHub Graph ◈</span></h2>
 
 <br>
 
