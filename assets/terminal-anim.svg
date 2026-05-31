@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460">
+  <defs>
+    <style>
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes fadeIn {
+        0% { opacity: 0; }
+        4% { opacity: 1; }
+        96% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      @keyframes scrollHint {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.8; }
+      }
+      .bg { fill: #0C0C0E; }
+      .border { fill: none; stroke: #C4A24E; stroke-width: 1.5; }
+      .chrome { fill: #111116; }
+      .chrome-text { fill: #5A5550; font-family: 'Courier New', monospace; font-size: 12px; text-anchor: middle; }
+      .prompt { fill: #C4A24E; font-family: 'Courier New', monospace; font-size: 14px; }
+      .cmd { fill: #E8E2D5; font-family: 'Courier New', monospace; font-size: 14px; }
+      .output { fill: #B87333; font-family: 'Courier New', monospace; font-size: 14px; }
+      .dim { fill: #8A8580; font-family: 'Courier New', monospace; font-size: 13px; }
+    </style>
+    <clipPath id="c1"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="200" dur="1.2s" begin="0.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="350" dur="2s" begin="2.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="100" dur="0.6s" begin="5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="370" dur="2.2s" begin="6.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="260" dur="1.5s" begin="9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="290" dur="1.6s" begin="10.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="330" dur="2s" begin="12.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c8"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="240" dur="1.3s" begin="15s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c9"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="360" dur="2s" begin="16.6s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- Window frame -->
+  <rect class="bg" x="0" y="0" width="640" height="460" rx="10"/>
+  <rect class="border" x="1" y="1" width="638" height="458" rx="10"/>
+  <rect class="chrome" x="0" y="0" width="640" height="38" rx="10"/>
+  <rect class="chrome" x="0" y="20" width="640" height="18"/>
+
+  <!-- Window controls -->
+  <circle cx="22" cy="19" r="5.5" fill="#5A5550"/>
+  <circle cx="44" cy="19" r="5.5" fill="#C4A24E"/>
+  <circle cx="66" cy="19" r="5.5" fill="#B87333"/>
+
+  <text class="chrome-text" x="320" y="25">ayush@dev:~</text>
+
+  <!-- Terminal content -->
+  <g style="animation: fadeIn 22s linear infinite">
+    <!-- Line 1: Prompt -->
+    <text class="prompt" x="30" y="78">ayush@dev:~$ </text>
+    <!-- Cursor blink 3 times then vanish -->
+    <rect x="178" y="63" width="10" height="16" fill="#C4A24E">
+      <animate attributeName="opacity" values="1;0;1;0;1;0" dur="0.3s" begin="0s" end="0.9s" fill="freeze"/>
+    </rect>
+
+    <!-- Line 1b: whoami -->
+    <text class="cmd" x="178" y="78" clip-path="url(#c1)">whoami</text>
+
+    <!-- Line 2: Output -->
+    <text class="output" x="42" y="104" clip-path="url(#c3)">&gt; ayush</text>
+
+    <!-- Line 3: Prompt -->
+    <text class="prompt" x="30" y="130">ayush@dev:~$ </text>
+    <text class="cmd" x="178" y="130" clip-path="url(#c4)">neofetch</text>
+
+    <!-- Lines 4-8: neofetch output -->
+    <text class="dim" x="42" y="156" clip-path="url(#c5)">&gt; OS: Full-Stack x86_64</text>
+    <text class="dim" x="42" y="182" clip-path="url(#c6)">&gt; Host: AI/ML Enthusiast</text>
+    <text class="dim" x="42" y="208" clip-path="url(#c7)">&gt; Shell: JS · Python · TS</text>
+    <text class="dim" x="42" y="234" clip-path="url(#c8)">&gt; Uptime: always learning</text>
+    <text class="dim" x="42" y="260" clip-path="url(#c9)">&gt; Interests: AI · Drawing · Puzzles</text>
+
+    <!-- Final prompt with blinking cursor -->
+    <text class="prompt" x="30" y="290">ayush@dev:~$ </text>
+    <rect x="178" y="275" width="10" height="16" fill="#C4A24E" style="animation: blink 0.7s step-end infinite;">
+      <animate attributeName="opacity" values="0;0;1" dur="0.7s" begin="19s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="320" y="340" text-anchor="middle" fill="#3A3A42" font-family="'Courier New', monospace" font-size="11" style="animation: scrollHint 2s ease-in-out infinite;">
+    [ ˙ scroll ˙ ]
+  </text>
+</svg>
