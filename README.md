@@ -216,11 +216,6 @@
 <!-- Profile Overview -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushSingh360&theme=dark" width="100%" alt="Profile Summary" />
 
-<br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSingh360&radius=12&theme=github-dark&bg_color=0C0C0E&color=C4A24E&line=C4A24E&point=E8E2D5&area=true&area_color=C4A24E15&hide_border=true" width="100%" alt="activity graph" />
-
 </div>
 
 <br><br>
