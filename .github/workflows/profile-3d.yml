@@ -17,8 +17,9 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name AyushSingh360
+          git config user.email ayushsingh21109@gmail.com
+          
           git add -A
           git diff --quiet && git diff --staged --quiet || git commit -m "Update 3D contribution graph"
           git push
