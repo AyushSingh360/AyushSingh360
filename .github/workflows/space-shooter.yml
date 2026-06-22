@@ -16,15 +16,26 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Space Shooter GIF
-        uses: czl9707/gh-space-shooter@main
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: ${{ github.repository_owner }}
-          output-path: dist/gh-space-shooter.gif
-          strategy: random
-          fps: 40
-          commit-message: "Update space shooter game GIF"
+          python-version: "3.12"
+
+      - name: Install gh-space-shooter
+        run: |
+          pip install gh-space-shooter
+
+      - name: Generate Space Shooter GIF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          gh-space-shooter ${{ github.repository_owner }} \
+            --output dist/gh-space-shooter.gif \
+            --strategy random \
+            --fps 40
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
