@@ -176,11 +176,11 @@
 
 <div align="center">
 
-<h2><span style="color:#C4A24E">◈ Commit Serpent ◈</span></h2>
+<h2><span style="color:#C4A24E">◈ Commit Space Shooter ◈</span></h2>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/AyushSingh360/AyushSingh360/output/snake.svg" width="100%" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AyushSingh360/AyushSingh360/output/gh-space-shooter.gif" width="100%" alt="Space Shooter animation" />
 
 <br>
 
