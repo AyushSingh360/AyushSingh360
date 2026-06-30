@@ -110,9 +110,14 @@
 
 <div align="center">
 
+
 <h2><span style="color:#C4A24E">◈ GitHub Graph ◈</span></h2>
 
 <br>
+
+<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
+
+<br><br>
 
 <table width="100%" style="max-width: 880px;">
   <tr>
