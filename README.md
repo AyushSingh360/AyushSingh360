@@ -115,7 +115,7 @@
 
 <br>
 
-<img src="profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Graph" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 
 <br><br>
 
