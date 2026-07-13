@@ -78,29 +78,29 @@
 
 <table style="max-width: 800px;">
   <tr>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" /></td>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript" /></td>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" /></td>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs" /></td>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" /></td>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" /></td>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch" /></td>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas" /></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" /><br><sub style="color:#8A8580">JavaScript</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript" /><br><sub style="color:#8A8580">TypeScript</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" /><br><sub style="color:#8A8580">React</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs" /><br><sub style="color:#8A8580">Next.js</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" /><br><sub style="color:#8A8580">Node.js</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" /><br><sub style="color:#8A8580">Python</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch" /><br><sub style="color:#8A8580">PyTorch</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas" /><br><sub style="color:#8A8580">Pandas</sub></td>
   </tr>
   <tr>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" /></td>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" /></td>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" /></td>
-    <td style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb" /></td>
-    <td style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=ae" height="50" alt="aftereffects" /></td>
-    <td style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=ai" height="50" alt="illustrator" /></td>
-    <td style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=ps" height="50" alt="photoshop" /></td>
-    <td style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=pr" height="50" alt="premiere" /></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" /><br><sub style="color:#8A8580">NumPy</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" /><br><sub style="color:#8A8580">Git</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" /><br><sub style="color:#8A8580">MySQL</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb" /><br><sub style="color:#8A8580">MongoDB</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=ae" height="50" alt="aftereffects" /><br><sub style="color:#8A8580">After Effects</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=ai" height="50" alt="illustrator" /><br><sub style="color:#8A8580">Illustrator</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=ps" height="50" alt="photoshop" /><br><sub style="color:#8A8580">Photoshop</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=pr" height="50" alt="premiere" /><br><sub style="color:#8A8580">Premiere</sub></td>
   </tr>
   <tr>
-    <td style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=github" height="50" alt="github" /></td>
-    <td style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma" /></td>
-    <td style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel" /></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=github" height="50" alt="github" /><br><sub style="color:#8A8580">GitHub</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma" /><br><sub style="color:#8A8580">Figma</sub></td>
+    <td align="center" style="padding: 6px 10px;"><img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel" /><br><sub style="color:#8A8580">Vercel</sub></td>
   </tr>
 </table>
 
@@ -109,7 +109,6 @@
 <br>
 
 <div align="center">
-
 
 <h2><span style="color:#C4A24E">◈ GitHub Graph ◈</span></h2>
 
